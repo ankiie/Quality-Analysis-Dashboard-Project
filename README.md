@@ -17,6 +17,8 @@
 
 7. What is the quality score for each employee and team?
 
+[click here to view the entire presentation](https://github.com/ankiie/Quality-Analysis-Dashboard-Project/blob/main/Quality%20Analysis%20Project%20pdf.pdf)
+
 ---
 ## Skills
 
